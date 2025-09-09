@@ -1,6 +1,6 @@
 
-import { AbrigoUseCase } from "./core/abrigo";
-import { AnimalRepository } from "./domain/AnimalRepository";
+import { AbrigoUseCase } from "./app/use_cases/AbrigoUseCase.js";
+import { AnimalRepository } from "./infrastructure/repositories/AnimalRepository.js";
 
 
 
