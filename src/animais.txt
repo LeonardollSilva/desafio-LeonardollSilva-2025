@@ -1,0 +1,7 @@
+Rex;cão;RATO,BOLA
+Mimi;gato;BOLA,LASER
+Fofo;gato;BOLA,RATO,LASER
+Zero;gato;RATO,BOLA
+Bola;cão;CAIXA,NOVELO
+Bebe;cão;LASER,RATO,BOLA
+Loco;jabuti;SKATE,RATO
