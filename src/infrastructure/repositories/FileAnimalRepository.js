@@ -1,5 +1,5 @@
 import fs from 'fs';
-import { Animal } from '../../../domain/entities/Animal.js';
+import { Animal } from '../../domain/entities/Animal.js';
 import { AnimalRepository } from '../../../domain/entities/AnimalRepository.js';
 
 export class FileAnimalRepository extends AnimalRepository {

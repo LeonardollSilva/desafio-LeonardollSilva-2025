@@ -1,6 +1,3 @@
-import { Animal } from '../../domain/entities/Animal.js';
-import { AnimalRepository } from '../../domain/entities/AnimalRepository.js';
-
 export class AbrigoUseCase {
   constructor(animalRepository) {
     this.animalRepository = animalRepository;

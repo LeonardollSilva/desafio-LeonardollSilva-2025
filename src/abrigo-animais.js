@@ -1,6 +1,6 @@
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { FileAnimalRepository } from './infrastructure/database/repositories/FileAnimalRepository.js';
+import { FileAnimalRepository } from './infrastructure/repositories/FileAnimalRepository.js';
 import { AbrigoUseCase } from './app/use_cases/AbrigoUseCase.js';
 
 class AbrigoAnimais {
